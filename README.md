@@ -8,14 +8,20 @@ Short description:
 Manager: 
 Links: https://t.me/robonomicsru 
 
+### Cryptoeconomics Research Group
+Type: cryptoeconomics
+Short description: 
+Manager: Stepan Gershuni
+Links: https://www.facebook.com/cryptoecon/, https://t.me/cryptoeconru
+
 ### Distributed Earth
 Type: common
 Short description: 
 Manager: 
 Links: https://t.me/distributed https://distributed.earth/ 
 
-### Cryptoeconomics Research Group
-Type: cryptoeconomics
+### Rosblockchain
+Type: corporate
 Short description: 
-Manager: Stepan Gershuni
-Links: https://www.facebook.com/cryptoecon/, https://t.me/cryptoeconru
+Manager: 
+Links: https://blog.rosblockchain.net/ 
